@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-space-grotesk: "Space Grotesk";
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-mini: 15px;
+  --font-size-101xl: 120px;
+  --font-size-41xl: 60px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-darkslategray: #2b4349;
+  --color-coral: #ee6a40;
+  --color-gainsboro: #d9d9d9;
+
+  /* Gaps */
+  --gap-base: 16px;
+}
+
+a {
+  text-decoration: none !important; 
+}

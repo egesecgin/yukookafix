@@ -1,0 +1,614 @@
+a {
+  text-decoration: none;
+}
+.ber-uns,
+.ntersttzen,
+.workshops {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 194px;
+  height: 29px;
+}
+.ber-uns,
+.ntersttzen {
+  left: 247px;
+}
+.ntersttzen {
+  left: 491px;
+}
+.werken28,
+.werken29,
+.werken30,
+.werken31,
+.werken32,
+.werken33,
+.werken34,
+.werken35 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 68px;
+  height: 29px;
+}
+.werken29,
+.werken30,
+.werken31,
+.werken32,
+.werken33,
+.werken34,
+.werken35 {
+  left: 125px;
+}
+.werken30,
+.werken31,
+.werken32,
+.werken33,
+.werken34,
+.werken35 {
+  top: 29px;
+  left: 0;
+}
+.werken31,
+.werken32,
+.werken33,
+.werken34,
+.werken35 {
+  left: 125px;
+}
+.werken32,
+.werken33,
+.werken34,
+.werken35 {
+  top: 58px;
+  left: 0;
+}
+.werken33,
+.werken34,
+.werken35 {
+  left: 125px;
+}
+.werken34,
+.werken35 {
+  top: 87px;
+  left: 0;
+}
+.werken35 {
+  left: 125px;
+}
+.foot3 {
+  position: absolute;
+  top: 54px;
+  left: 0;
+  width: 193px;
+  height: 116px;
+  text-align: left;
+  font-size: var(--font-size-mini);
+}
+.werken37,
+.werken39,
+.werken41,
+.werken43 {
+  position: absolute;
+  top: 0;
+  left: 122px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 68px;
+  height: 29px;
+}
+.werken39,
+.werken41,
+.werken43 {
+  top: 29px;
+}
+.werken41,
+.werken43 {
+  top: 58px;
+}
+.werken43 {
+  top: 87px;
+}
+.foot4 {
+  position: absolute;
+  top: 54px;
+  left: 247px;
+  width: 190px;
+  height: 116px;
+  text-align: left;
+  font-size: var(--font-size-mini);
+}
+.replab-2023 {
+  position: absolute;
+  top: 87px;
+  left: 743px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 125px;
+  height: 29px;
+}
+.foot5 {
+  position: absolute;
+  top: 54px;
+  left: 491px;
+  width: 868px;
+  height: 116px;
+  text-align: left;
+  font-size: var(--font-size-mini);
+}
+.p-footer {
+  position: relative;
+  width: 1359px;
+  height: 170px;
+  flex-shrink: 0;
+}
+.section-4-footer1,
+.wir-frdern-die4 {
+  position: absolute;
+  left: 0;
+  display: flex;
+}
+.section-4-footer1 {
+  top: 3752px;
+  background-color: var(--color-darkslategray);
+  width: 1512px;
+  height: 281px;
+  flex-direction: column;
+  padding: 43px 58px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-white);
+}
+.wir-frdern-die4 {
+  top: 406px;
+  line-height: 150%;
+  font-weight: 500;
+  align-items: center;
+  width: 793px;
+  height: 123px;
+}
+.img-landing-icon {
+  position: absolute;
+  top: 0;
+  left: 917px;
+  width: 439.43px;
+  height: 446.42px;
+}
+.reparieren-leicht-gemacht {
+  position: absolute;
+  top: 150px;
+  left: 0;
+  font-size: var(--font-size-101xl);
+  line-height: 98.6%;
+  display: inline-block;
+  width: 987px;
+  height: 283px;
+}
+.section-1-landing {
+  position: absolute;
+  top: 171px;
+  left: 58px;
+  width: 1356px;
+  height: 529px;
+  text-align: left;
+}
+.p-textil-child,
+.p-textil-child1 {
+  position: relative;
+  background-color: var(--color-gainsboro);
+  width: 427px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.p-textil-child1 {
+  width: 314px;
+}
+.p-textil {
+  position: absolute;
+  top: 1559px;
+  left: 60px;
+  text-decoration: none;
+  width: 427px;
+  height: 144px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.p-theorie-child,
+.p-theorie-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 442px;
+  height: 24px;
+}
+.p-theorie-item {
+  left: 490px;
+  width: 427px;
+}
+.p-theorie-child1,
+.p-theorie-child2,
+.p-theorie-child3,
+.p-theorie-inner {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 442px;
+  height: 24px;
+}
+.p-theorie-child1,
+.p-theorie-child2,
+.p-theorie-child3 {
+  left: 490px;
+  width: 427px;
+}
+.p-theorie-child2,
+.p-theorie-child3 {
+  top: 80px;
+  left: 0;
+  width: 444px;
+}
+.p-theorie-child3 {
+  left: 490px;
+  width: 314px;
+}
+.p-theorie {
+  position: absolute;
+  top: 349px;
+  left: 61px;
+  width: 917px;
+  height: 104px;
+}
+.p-elektronik,
+.p-werken {
+  position: absolute;
+  top: 1559px;
+  left: 526px;
+  width: 427px;
+  height: 144px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.p-elektronik {
+  left: 993px;
+}
+.img-textil-icon1,
+.img-werken-icon {
+  position: absolute;
+  top: 1080px;
+  left: 60px;
+  width: 424.43px;
+  text-decoration: none;
+  height: 423.42px;
+}
+.img-werken-icon {
+  top: 1082px;
+  left: 525px;
+}
+.section-2-main-body-child {
+  position: absolute;
+  top: 485.57px;
+  left: 59.17px;
+  width: 1386.83px;
+  height: 1017.85px;
+}
+.cta-theorie-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 253px;
+  height: 48px;
+}
+.theorie1 {
+  position: absolute;
+  top: 9px;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 255px;
+  height: 29px;
+}
+.cta-theorie-item {
+  position: absolute;
+  top: 0;
+  left: 244px;
+  background-color: var(--color-coral);
+  width: 81px;
+  height: 48px;
+}
+.cta-theorie,
+.cta-theorie-inner {
+  position: absolute;
+  top: 12.95px;
+  left: 266px;
+  width: 39.5px;
+  height: 22.09px;
+}
+.cta-theorie {
+  top: 260px;
+  left: 60px;
+  width: 325px;
+  height: 48px;
+}
+.textil,
+.textil-wrapper {
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+}
+.textil {
+  position: relative;
+  align-items: center;
+  width: 255px;
+  height: 29px;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.textil-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 253px;
+  height: 48px;
+  flex-direction: column;
+  text-decoration: none;
+  align-items: flex-end;
+}
+.cta-textil,
+.cta-werken-child {
+  position: absolute;
+  top: 996px;
+  left: 61px;
+  width: 325px;
+  text-decoration: none;
+  height: 48px;
+}
+.cta-werken-child {
+  top: 0;
+  left: 247px;
+  background-color: var(--color-coral);
+  width: 81px;
+}
+.cta-elektronik-child,
+.cta-werken {
+  position: absolute;
+  top: 996px;
+  left: 525px;
+  width: 328px;
+  height: 48px;
+}
+.cta-elektronik-child {
+  top: 0;
+  left: 2px;
+  background-color: var(--color-gainsboro);
+  width: 253px;
+}
+.elektronik {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 255px;
+  height: 29px;
+}
+.cta-elektronik-item {
+  position: absolute;
+  top: 0;
+  left: 246px;
+  background-color: var(--color-coral);
+  width: 81px;
+  height: 48px;
+}
+.cta-elektronik-inner {
+  position: absolute;
+  top: 12.95px;
+  left: 268px;
+  width: 39.5px;
+  height: 22.09px;
+}
+.cta-elektronik,
+.was-wir-bieten {
+  position: absolute;
+  top: 996px;
+  left: 987px;
+  width: 327px;
+  height: 48px;
+}
+.was-wir-bieten {
+  top: 0;
+  left: 58px;
+  font-size: var(--font-size-41xl);
+  line-height: 98.6%;
+  display: flex;
+  color: var(--color-white);
+  text-align: left;
+  align-items: flex-end;
+  width: 987px;
+  height: 174px;
+}
+.section-2-main-body {
+  position: absolute;
+  top: 816px;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 1512px;
+  height: 1982px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.dolore-magna-aliquyam2,
+.wir-frdern-die5 {
+  position: absolute;
+  top: 236px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 1370px;
+  height: 70px;
+}
+.dolore-magna-aliquyam2 {
+  top: 306px;
+}
+.dolore-magna-aliquyam3,
+.lorem-ipsum-dolor2,
+.lorem-ipsum-dolor3,
+.wir-frdern-die6,
+.wir-frdern-die7 {
+  position: absolute;
+  top: 376px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 1370px;
+  height: 70px;
+}
+.dolore-magna-aliquyam3,
+.lorem-ipsum-dolor3,
+.wir-frdern-die6,
+.wir-frdern-die7 {
+  top: 446px;
+}
+.dolore-magna-aliquyam3,
+.lorem-ipsum-dolor3,
+.wir-frdern-die7 {
+  top: 516px;
+}
+.lorem-ipsum-dolor3,
+.wir-frdern-die7 {
+  top: 586px;
+}
+.lorem-ipsum-dolor3 {
+  top: 656px;
+}
+.faqs1 {
+  position: absolute;
+  top: 0;
+  left: 6px;
+  font-size: var(--font-size-41xl);
+  line-height: 98.6%;
+  display: flex;
+  align-items: flex-end;
+  width: 987px;
+  height: 174px;
+}
+.section-3-faqs1 {
+  position: absolute;
+  top: 2798px;
+  left: 51px;
+  width: 1370px;
+  height: 726px;
+  text-align: left;
+}
+.ber-das-projekt1 {
+  position: absolute;
+  top: 15px;
+  left: 684px;
+  font-weight: 500;
+  width: 247px;
+  height: 29px;
+}
+.ber-das-projekt1,
+.untersttzung1,
+.zu-allen-workshops1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.untersttzung1 {
+  position: absolute;
+  top: 15px;
+  left: 869px;
+  font-weight: 500;
+  width: 239px;
+  height: 29px;
+}
+.zu-allen-workshops1 {
+  position: relative;
+  width: 190px;
+  height: 28px;
+  flex-shrink: 0;
+}
+.cta-zu-den-workshops1 {
+  position: absolute;
+  top: 4px;
+  left: 1100px;
+  background-color: var(--color-darkslategray);
+  width: 282px;
+  height: 52px;
+  display: flex;
+  flex-direction: column;
+  padding: 11px 45px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-end;
+  color: var(--color-white);
+}
+.logo-item {
+  position: absolute;
+  top: 0;
+  left: 14px;
+  width: 112px;
+  height: 58px;
+}
+.header1,
+.logo1,
+.replab1 {
+  position: absolute;
+  left: 0;
+  width: 139px;
+}
+.replab1 {
+  top: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 29px;
+}
+.header1,
+.logo1 {
+  top: 0;
+  height: 58px;
+  font-size: var(--font-size-xl);
+}
+.header1 {
+  top: 28px;
+  left: 29px;
+  width: 1382px;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+}
+.landing {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4033px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-space-grotesk);
+}
+a {
+  text-decoration: none;
+}

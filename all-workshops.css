@@ -1,0 +1,377 @@
+.ber-uns2,
+.ntersttzen2,
+.workshops2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 194px;
+  height: 29px;
+}
+.ber-uns2,
+.ntersttzen2 {
+  left: 255px;
+}
+.ntersttzen2 {
+  left: 510px;
+}
+.werken48,
+.werken49,
+.werken50,
+.werken51,
+.werken52,
+.werken53,
+.werken54,
+.werken55 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 68px;
+  height: 29px;
+}
+.werken49,
+.werken50,
+.werken51,
+.werken52,
+.werken53,
+.werken54,
+.werken55 {
+  left: 129px;
+}
+.werken50,
+.werken51,
+.werken52,
+.werken53,
+.werken54,
+.werken55 {
+  top: 29px;
+  left: 0;
+}
+.werken51,
+.werken52,
+.werken53,
+.werken54,
+.werken55 {
+  left: 129px;
+}
+.werken52,
+.werken53,
+.werken54,
+.werken55 {
+  top: 58px;
+  left: 0;
+}
+.werken53,
+.werken54,
+.werken55 {
+  left: 129px;
+}
+.werken54,
+.werken55 {
+  top: 87px;
+  left: 0;
+}
+.werken55 {
+  left: 129px;
+}
+.foot6,
+.foot7 {
+  position: absolute;
+  top: 54px;
+  left: 0;
+  width: 197px;
+  height: 116px;
+  text-align: left;
+  font-size: var(--font-size-mini);
+}
+.foot7 {
+  left: 255px;
+}
+.replab-20232 {
+  position: absolute;
+  top: 87px;
+  left: 769px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 125px;
+  height: 29px;
+}
+.foot8 {
+  position: absolute;
+  top: 54px;
+  left: 510px;
+  width: 894px;
+  height: 116px;
+  text-align: left;
+  font-size: var(--font-size-mini);
+}
+.p-footer2,
+.section-3-footer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1404px;
+  height: 170px;
+}
+.section-3-footer {
+  top: 5970px;
+  left: 61px;
+}
+.lcher-flicken-child,
+.section-2-workshops-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 1512px;
+  height: 5494px;
+}
+.lcher-flicken-child {
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 417.92px;
+  height: 706px;
+}
+.lcher-flicken-item {
+  position: absolute;
+  top: 0;
+  left: 1.97px;
+  width: 415.39px;
+  height: 420.42px;
+}
+.lcher-flicken-child1,
+.lcher-flicken-child2,
+.lcher-flicken-child3,
+.lcher-flicken-inner {
+  position: absolute;
+  top: 505px;
+  left: 18.73px;
+  background-color: var(--color-gainsboro);
+  width: 381.45px;
+  height: 24px;
+}
+.lcher-flicken-child1,
+.lcher-flicken-child2,
+.lcher-flicken-child3 {
+  top: 545px;
+}
+.lcher-flicken-child2,
+.lcher-flicken-child3 {
+  top: 585px;
+}
+.lcher-flicken-child3 {
+  top: 625px;
+  width: 280.51px;
+}
+.lcher-flicken,
+.schuhe-flicken {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 417.92px;
+  height: 706px;
+}
+.schuhe-flicken {
+  top: 420px;
+  left: 18.73px;
+  font-weight: 500;
+  display: flex;
+  align-items: flex-end;
+  width: 381.45px;
+  height: 52px;
+}
+.lcher-flicken2 {
+  position: absolute;
+  top: 773px;
+  left: 0;
+  width: 417.92px;
+  height: 706px;
+}
+.lcher-flicken3,
+.lcher-flicken4,
+.lcher-flicken6 {
+  position: absolute;
+  top: 0;
+  left: 481px;
+  width: 417.92px;
+  height: 706px;
+}
+.lcher-flicken4,
+.lcher-flicken6 {
+  top: 773px;
+}
+.lcher-flicken6 {
+  top: 0;
+  left: 962px;
+}
+.lcher-flicken-group,
+.lcher-flicken-parent,
+.lcher-flicken15 {
+  position: absolute;
+  top: 241px;
+  left: 66px;
+  width: 1379.92px;
+  height: 1479px;
+}
+.lcher-flicken-group,
+.lcher-flicken15 {
+  top: 1944px;
+  height: 706px;
+}
+.lcher-flicken15 {
+  top: 771px;
+  left: 0;
+  width: 417.92px;
+}
+.lcher-flicken-container,
+.lcher-flicken-parent1 {
+  position: absolute;
+  top: 2876px;
+  left: 66px;
+  width: 1379.92px;
+  height: 1477px;
+}
+.lcher-flicken-parent1 {
+  top: 4579px;
+  height: 706px;
+}
+.elektronik,
+.textil,
+.theorie,
+.werken72 {
+  position: absolute;
+  top: 0;
+  left: 60px;
+  font-size: var(--font-size-41xl);
+  line-height: 98.6%;
+  display: flex;
+  color: var(--color-white);
+  align-items: flex-end;
+  width: 987px;
+  height: 174px;
+}
+.elektronik,
+.theorie,
+.werken72 {
+  top: 1718px;
+}
+.elektronik,
+.theorie {
+  top: 2650px;
+}
+.theorie {
+  top: 4353px;
+}
+.section-2-workshops {
+  position: absolute;
+  top: 428px;
+  left: 0;
+  width: 1512px;
+  height: 5494px;
+  text-align: left;
+  color: var(--color-black);
+}
+.alle-workshops-auf {
+  position: absolute;
+  top: 0;
+  left: 399px;
+  line-height: 98.6%;
+  display: inline-block;
+  width: 987px;
+  height: 296px;
+}
+.section-1-landing-child {
+  position: absolute;
+  top: 13.95px;
+  left: -1.5px;
+  width: 71.5px;
+  height: 22.09px;
+}
+.section-1-landing2 {
+  position: absolute;
+  top: 145px;
+  left: 63px;
+  width: 1386px;
+  height: 296px;
+  text-align: right;
+  font-size: var(--font-size-101xl);
+}
+.ber-das-projekt2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 247px;
+  height: 29px;
+}
+.ber-das-projekt-frame,
+.untersttzung2 {
+  position: absolute;
+  top: 15px;
+  left: 707px;
+  width: 247px;
+  height: 29px;
+}
+.untersttzung2 {
+  left: 899px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 239px;
+}
+.logo-inner {
+  position: absolute;
+  top: 0;
+  left: 14px;
+  width: 112px;
+  height: 58px;
+}
+.header2,
+.logo2,
+.replab2 {
+  position: absolute;
+  left: 0;
+  width: 139px;
+}
+.replab2 {
+  top: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 29px;
+}
+.header2,
+.logo2 {
+  top: 0;
+  height: 58px;
+  font-size: var(--font-size-xl);
+}
+.header2 {
+  top: 28px;
+  left: 29px;
+  width: 1138px;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+}
+.all-workshops {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 6191px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-space-grotesk);
+}

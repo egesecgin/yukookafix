@@ -1,0 +1,329 @@
+.macbook-pro-14-3-child,
+.macbook-pro-14-3-item {
+  position: absolute;
+  top: 816px;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 1512px;
+  height: 1833px;
+}
+.macbook-pro-14-3-item {
+  top: 32px;
+  left: 1134px;
+  width: 314px;
+  height: 52px;
+}
+.ber-das-projekt2,
+.werken53,
+.werken54,
+.werken55 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 29px;
+}
+.ber-das-projekt2 {
+  top: 43px;
+  left: 189px;
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+  text-align: center;
+  width: 255px;
+}
+.werken53,
+.werken54,
+.werken55 {
+  top: 0;
+  left: 0;
+  width: 194px;
+}
+.werken54,
+.werken55 {
+  left: 255px;
+}
+.werken55 {
+  left: 510px;
+}
+.werken56,
+.werken57,
+.werken58,
+.werken59,
+.werken60,
+.werken61,
+.werken62,
+.werken63 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 68px;
+  height: 29px;
+}
+.werken57,
+.werken58,
+.werken59,
+.werken60,
+.werken61,
+.werken62,
+.werken63 {
+  left: 129px;
+}
+.werken58,
+.werken59,
+.werken60,
+.werken61,
+.werken62,
+.werken63 {
+  top: 29px;
+  left: 0;
+}
+.werken59,
+.werken60,
+.werken61,
+.werken62,
+.werken63 {
+  left: 129px;
+}
+.werken60,
+.werken61,
+.werken62,
+.werken63 {
+  top: 58px;
+  left: 0;
+}
+.werken61,
+.werken62,
+.werken63 {
+  left: 129px;
+}
+.werken62,
+.werken63 {
+  top: 87px;
+  left: 0;
+}
+.werken63 {
+  left: 129px;
+}
+.foot6,
+.foot7 {
+  position: absolute;
+  top: 54px;
+  left: 0;
+  width: 197px;
+  height: 116px;
+  text-align: left;
+  font-size: var(--font-size-mini);
+}
+.foot7 {
+  left: 255px;
+}
+.werken78 {
+  position: absolute;
+  top: 87px;
+  left: 834px;
+  display: flex;
+  align-items: center;
+  width: 60px;
+  height: 29px;
+}
+.foot8 {
+  position: absolute;
+  top: 54px;
+  left: 510px;
+  width: 894px;
+  height: 116px;
+  text-align: left;
+  font-size: var(--font-size-mini);
+}
+.werken-group {
+  position: absolute;
+  top: 2786px;
+  left: 58px;
+  width: 1404px;
+  height: 170px;
+  text-align: center;
+  color: var(--color-darkslategray);
+}
+.untersttzung2 {
+  top: 43px;
+  left: 445px;
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+  text-align: center;
+  justify-content: center;
+  width: 255px;
+  height: 29px;
+}
+.untersttzung2,
+.wir-frdern-die8,
+.zu-den-workshops {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.wir-frdern-die8 {
+  top: 464px;
+  left: 63px;
+  font-weight: 500;
+  color: var(--color-darkslategray);
+  width: 664px;
+  height: 177px;
+}
+.zu-den-workshops {
+  top: 45px;
+  left: 1151px;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+  text-align: center;
+  justify-content: center;
+  width: 280px;
+  height: 28px;
+}
+.img-textil-icon2,
+.textil1 {
+  position: absolute;
+  top: 158px;
+  left: 755px;
+  width: 696.33px;
+  height: 574.26px;
+}
+.textil1 {
+  top: 326px;
+  left: 58px;
+  font-size: var(--font-size-101xl);
+  line-height: 98.6%;
+  display: inline-block;
+  color: var(--color-darkslategray);
+  width: 987px;
+  height: 296px;
+}
+.macbook-pro-14-3-inner,
+.replab2 {
+  position: absolute;
+  top: 28px;
+  left: 43px;
+  width: 112px;
+  height: 58px;
+}
+.replab2 {
+  top: 43px;
+  left: 29px;
+  font-size: var(--font-size-xl);
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 139px;
+  height: 29px;
+}
+.arrow-icon {
+  position: absolute;
+  top: 158.95px;
+  left: 59.5px;
+  width: 71.5px;
+  height: 22.09px;
+}
+.lcher-flicken-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 417.92px;
+  height: 706px;
+}
+.lcher-flicken-item {
+  position: absolute;
+  top: 0;
+  left: 1.97px;
+  width: 415.39px;
+  height: 420.42px;
+}
+.lcher-flicken-child1,
+.lcher-flicken-child2,
+.lcher-flicken-child3,
+.lcher-flicken-inner {
+  position: absolute;
+  top: 505px;
+  left: 18.73px;
+  background-color: var(--color-gainsboro);
+  width: 381.45px;
+  height: 24px;
+}
+.lcher-flicken-child1,
+.lcher-flicken-child2,
+.lcher-flicken-child3 {
+  top: 545px;
+}
+.lcher-flicken-child2,
+.lcher-flicken-child3 {
+  top: 585px;
+}
+.lcher-flicken-child3 {
+  top: 625px;
+  width: 280.51px;
+}
+.lcher-flicken1,
+.schuhe-flicken {
+  position: absolute;
+  top: 877px;
+  left: 66px;
+  width: 417.92px;
+  height: 706px;
+}
+.schuhe-flicken {
+  top: 420px;
+  left: 18.73px;
+  font-weight: 500;
+  display: flex;
+  align-items: flex-end;
+  width: 381.45px;
+  height: 52px;
+}
+.lcher-flicken3 {
+  position: absolute;
+  top: 1650px;
+  left: 66px;
+  width: 417.92px;
+  height: 706px;
+}
+.lcher-flicken4,
+.lcher-flicken5,
+.lcher-flicken7,
+.lcher-flicken8 {
+  position: absolute;
+  top: 877px;
+  left: 547px;
+  width: 417.92px;
+  height: 706px;
+}
+.lcher-flicken5,
+.lcher-flicken7,
+.lcher-flicken8 {
+  top: 1650px;
+}
+.lcher-flicken7,
+.lcher-flicken8 {
+  top: 877px;
+  left: 1028px;
+}
+.lcher-flicken8 {
+  top: 1650px;
+}
+.macbook-pro-14-3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3009px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-space-grotesk);
+}
+a {
+  text-decoration: none;
+}

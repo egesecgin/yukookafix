@@ -1,0 +1,429 @@
+.wir-frdern-die1 {
+  position: absolute;
+  top: 406px;
+  left: 0;
+  line-height: 150%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 793px;
+  height: 123px;
+}
+.img-landing-icon4,
+.ntersttze-uns {
+  position: absolute;
+  top: 0;
+  left: 951px;
+  width: 439.43px;
+  height: 446.42px;
+}
+.ntersttze-uns {
+  top: 150px;
+  left: 0;
+  font-size: var(--font-size-101xl);
+  line-height: 98.6%;
+  display: inline-block;
+  width: 888px;
+  height: 283px;
+}
+.section-1-landing1 {
+  position: absolute;
+  top: 171px;
+  left: 58px;
+  width: 1390px;
+  height: 529px;
+  text-align: left;
+}
+.section-2-dark-background1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 1512px;
+  height: 664px;
+}
+.group-child15 {
+  background-color: var(--color-gainsboro);
+}
+.group-child15,
+.p-theorie-inner16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 442px;
+  height: 24px;
+}
+.group-child16,
+.p-theorie-inner17 {
+  position: absolute;
+  top: 0;
+  width: 427px;
+  height: 24px;
+}
+.group-child16 {
+  left: 0;
+  background-color: var(--color-gainsboro);
+}
+.p-theorie-inner17 {
+  left: 509px;
+}
+.group-child19,
+.p-theorie-inner18,
+.p-theorie-inner19 {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  width: 442px;
+  height: 24px;
+}
+.group-child19,
+.p-theorie-inner19 {
+  left: 509px;
+  width: 427px;
+}
+.group-child19 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 444px;
+}
+.group-child20,
+.p-theorie-inner20 {
+  position: absolute;
+  top: 80px;
+  left: 0;
+  width: 444px;
+  height: 24px;
+}
+.group-child20 {
+  top: 0;
+  background-color: var(--color-gainsboro);
+  width: 127px;
+  height: 48px;
+}
+.group-child21,
+.p-theorie-inner21 {
+  position: absolute;
+  top: 180px;
+  left: 2px;
+  width: 127px;
+  height: 48px;
+}
+.group-child21 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-coral);
+  width: 92px;
+}
+.group-child22,
+.p-theorie-inner22 {
+  position: absolute;
+  top: 180px;
+  left: 129px;
+  width: 92px;
+  height: 48px;
+}
+.group-child22 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 314px;
+  height: 24px;
+}
+.p-theorie-inner23,
+.p-theorie5 {
+  position: absolute;
+  top: 80px;
+  left: 509px;
+  width: 314px;
+  height: 24px;
+}
+.p-theorie5 {
+  top: 234px;
+  left: 61px;
+  width: 936px;
+  height: 228px;
+}
+.cta-theorie-child {
+  position: absolute;
+  top: 0;
+  left: 340px;
+  background-color: var(--color-coral);
+  width: 253px;
+  height: 48px;
+}
+.chf,
+.untersttzen {
+  position: absolute;
+  top: 9px;
+  left: 338px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 255px;
+  height: 29px;
+}
+.chf {
+  top: 10px;
+  left: 0;
+  color: var(--color-black);
+  width: 125px;
+}
+.cta-theorie,
+.jetzt-beitragen {
+  position: absolute;
+  top: 414px;
+  left: 64px;
+  width: 593px;
+  height: 48px;
+}
+.jetzt-beitragen {
+  top: 0;
+  left: 58px;
+  font-size: var(--font-size-41xl);
+  line-height: 98.6%;
+  display: flex;
+  text-align: left;
+  align-items: flex-end;
+  width: 987px;
+  height: 174px;
+}
+.section-2-main-body1 {
+  position: absolute;
+  top: 815px;
+  left: 0;
+  width: 1512px;
+  height: 664px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.ber-das-projekt1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 247px;
+  height: 29px;
+}
+.ber-das-projekt-container,
+.untersttzung1 {
+  position: absolute;
+  top: 15px;
+  left: 707px;
+  width: 247px;
+  height: 29px;
+}
+.untersttzung1 {
+  left: 899px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 239px;
+}
+.cta-zu-den-workshops-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 282px;
+  height: 52px;
+}
+.zu-allen-workshops1 {
+  position: absolute;
+  top: 13px;
+  left: 47px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 190px;
+  height: 28px;
+}
+.cta-zu-den-workshops1 {
+  position: absolute;
+  top: 4px;
+  left: 1138px;
+  width: 282px;
+  height: 52px;
+  color: var(--color-white);
+}
+.logo-item {
+  position: absolute;
+  top: 0;
+  left: 14px;
+  width: 112px;
+  height: 58px;
+}
+.header1,
+.logo1,
+.replab1 {
+  position: absolute;
+  left: 0;
+  width: 139px;
+}
+.replab1 {
+  top: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 29px;
+}
+.header1,
+.logo1 {
+  top: 0;
+  height: 58px;
+  font-size: var(--font-size-xl);
+}
+.header1 {
+  top: 28px;
+  left: 29px;
+  width: 1420px;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+}
+.donate-child {
+  position: absolute;
+  top: 1247.5px;
+  left: 220.5px;
+  width: 34.5px;
+  height: 12.75px;
+}
+.ber-uns1,
+.ntersttzen1,
+.workshops1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 194px;
+  height: 29px;
+}
+.ber-uns1,
+.ntersttzen1 {
+  left: 255px;
+}
+.ntersttzen1 {
+  left: 510px;
+}
+.werken24,
+.werken25,
+.werken26,
+.werken27,
+.werken28,
+.werken29,
+.werken30,
+.werken31 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 68px;
+  height: 29px;
+}
+.werken25,
+.werken26,
+.werken27,
+.werken28,
+.werken29,
+.werken30,
+.werken31 {
+  left: 129px;
+}
+.werken26,
+.werken27,
+.werken28,
+.werken29,
+.werken30,
+.werken31 {
+  top: 29px;
+  left: 0;
+}
+.werken27,
+.werken28,
+.werken29,
+.werken30,
+.werken31 {
+  left: 129px;
+}
+.werken28,
+.werken29,
+.werken30,
+.werken31 {
+  top: 58px;
+  left: 0;
+}
+.werken29,
+.werken30,
+.werken31 {
+  left: 129px;
+}
+.werken30,
+.werken31 {
+  top: 87px;
+  left: 0;
+}
+.werken31 {
+  left: 129px;
+}
+.foot3,
+.foot4 {
+  position: absolute;
+  top: 54px;
+  left: 0;
+  width: 197px;
+  height: 116px;
+  text-align: left;
+  font-size: var(--font-size-mini);
+}
+.foot4 {
+  left: 255px;
+}
+.replab-20231 {
+  position: absolute;
+  top: 87px;
+  left: 769px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 125px;
+  height: 29px;
+}
+.foot5 {
+  position: absolute;
+  top: 54px;
+  left: 510px;
+  width: 894px;
+  height: 116px;
+  text-align: left;
+  font-size: var(--font-size-mini);
+}
+.p-footer1,
+.section-4-footer1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1404px;
+  height: 170px;
+}
+.section-4-footer1 {
+  top: 1534px;
+  left: 54px;
+}
+.donate {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1761px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-space-grotesk);
+}
